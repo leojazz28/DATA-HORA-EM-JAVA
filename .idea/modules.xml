@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculos com data-hora/Calculos com data-hora.iml" filepath="$PROJECT_DIR$/Calculos com data-hora/Calculos com data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convertendo data -hora texto/Convertendo data -hora texto.iml" filepath="$PROJECT_DIR$/Convertendo data -hora texto/Convertendo data -hora texto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convertendo data-hora global para local/Convertendo data-hora global para local.iml" filepath="$PROJECT_DIR$/Convertendo data-hora global para local/Convertendo data-hora global para local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Ex Maior Posicao/Ex Maior Posicao.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Ex Maior Posicao/Ex Maior Posicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio  Lista/Exercicio  Lista.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio  Lista/Exercicio  Lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Altura/Exercicio Altura.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Altura/Exercicio Altura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Matraiz/Exercicio Matraiz.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Matraiz/Exercicio Matraiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Pensionato/Exercicio Pensionato.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Exercicio Pensionato/Exercicio Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instaciando Data-hora em java/Instaciando Data-hora em java.iml" filepath="$PROJECT_DIR$/Instaciando Data-hora em java/Instaciando Data-hora em java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Listas/Listas.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/Matrizes java/Matrizes java.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/Matrizes java/Matrizes java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/vetor p1/vetor p1.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/vetor p1/vetor p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comp-memoria-arreys-lista-/vetor p2/vetor p2.iml" filepath="$PROJECT_DIR$/comp-memoria-arreys-lista-/vetor p2/vetor p2.iml" />
+    </modules>
+  </component>
+</project>
